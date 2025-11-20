@@ -1,3 +1,9 @@
+GAME MEET. QUESTO SITO, INTERAMENTE IMPLEMENTATO GRAZIE ALL'UTILIZZO DEL FRAMEWORK 'LARAVEL' , PERMETTE DI CREARE UN PROFILO E CONDIVIDERE UNA PROPRIA PREFERENZA DI VIDEOGIOCHI. GLI UTENTI POSSONO TROVARSI TRA DI LORO PER NOME O PER I VIDEOGIOCHI DI INTERESSE.
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -28,6 +34,11 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
+
+
+
+
+
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
